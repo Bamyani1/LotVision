@@ -145,6 +145,12 @@ The system utilizes Google Gemini AI to analyze vehicle entry patterns and flag 
 - **Advanced Analytics**: Historical data analysis and trend identification
 - **Automated Alerts**: SMS or email notifications for security events
 
+## Contributors
+
+- **Inesh Tickoo**
+- **Mostafa Anwari**
+- **Nick Davis**
+
 ## Contributing
 
 Contributions to the LOTVISION project are welcome. Please follow these steps:
