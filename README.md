@@ -147,9 +147,9 @@ The system utilizes Google Gemini AI to analyze vehicle entry patterns and flag 
 
 ## Contributors
 
-- **Inesh Tickoo**
 - **Mostafa Anwari**
-- **Nick Davis**
+- **Hassan Mushtaq**
+- **Wasif Karim**
 
 ## Contributing
 
